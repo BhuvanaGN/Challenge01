@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Challenge01</string>
+    <string name="page_1_button">Display Message</string>
+    <string name="go_to_page_2">Go to Page 2</string>
+    <string name="display_message_IN_PAGE2">DISPLAY MESSAGE</string>
+    <string name="go_to_page_1_IN_PAGE2">GO TO PAGE 1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
